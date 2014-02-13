@@ -1,9 +1,9 @@
 PhiLink (PLK) - a 'faster' version of Litecoin which also uses scrypt
 as a proof of work scheme and is intended for microtransactions.
- - 15 seconds block targets: beat that MinCoin! ;)
- - 42 007 680 total coins
+ - 120 seconds block targets: beat that MinCoin! ;)
+ - 10 000 000 total coins
  - no subsidy within the first 3 days and after approximately 5 years;
-    in between: 4 coins per generated block
+    in between: 1000 coins per generated block
  - difficulty retargets every 0.35 days
  - currently peers are looked up over IRC only
  - currently no block checkpoints are in the code (but could be easily
